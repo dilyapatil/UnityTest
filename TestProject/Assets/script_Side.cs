@@ -12,5 +12,7 @@ public class script_Side : MonoBehaviour {
 	void Update () 
     {
         transform.Rotate(Vector3.right, 10);
+
+        ////ha ha ha ha ha 
 	}
 }
