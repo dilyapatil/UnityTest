@@ -13,6 +13,10 @@ public class script_Side : MonoBehaviour {
     {
         transform.Rotate(Vector3.right, 10);
 
+<<<<<<< HEAD
         //side_ha ha ha ha 
+=======
+        ////ha ha ha ha ha 
+>>>>>>> ceab1c52b791bfea706b82931db52d2d1847c7c1
 	}
 }
